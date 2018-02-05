@@ -1,0 +1,13 @@
+.Setup {
+  display: inline-block;
+}
+
+.Setup label {
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.Setup button {
+  margin-top: 2rem;
+  width: 100%;
+}
